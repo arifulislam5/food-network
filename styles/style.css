@@ -97,11 +97,19 @@ body{
     padding: 2%;
 }
 .social-net{
-    border: 2px solid slateblue;
+    
     margin-top: 80px;
     height: 150px;
+    width: 90%;
+    margin-left: 4%;
+    box-shadow: 5px 5px 15px gray;
+    border-radius: 10px;
 }
 .follower{
     float: left;
     width: 30%;
+    padding-left: 3%;
+    padding-top: 2%;
+    margin-bottom: 30px;
+   
 }
