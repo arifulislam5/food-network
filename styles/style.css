@@ -1,0 +1,66 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    
+   
+}
+.half-width h1{
+    font-size: 50px;
+}
+
+#first-section-image{
+    height: 550px;
+    width: 580px;
+    padding-left: 20px;
+
+
+}
+.first-section-first-width{
+    padding-left: 50px;
+    padding-top: 80px;
+}
+.first-section-second-width{
+    padding-left: 50px;
+}
+.first-section-first-width h1 span{
+    color: orange;
+}
+.second-section-first-width{
+    padding-top: 50px;
+    
+    padding-left: 250px;
+    
+}
+.second-section-second-width{
+    padding-top:130px ;
+    
+}
+.second-section-second-width p{
+    font-size: 20px;
+}
+#second-section-image{
+
+    height: 445px;
+}
+.first-section{
+    
+    height: 500px;
+}
+.second_section{
+    background-image: url("../images/7.png");
+    background-repeat: no-repeat;
+    margin-top: 120px;
+    height: 500px;
+}
+.button{
+    
+    background-image: linear-gradient(90deg,yellow,orange);
+    height: 150px;
+    width: 80px;
+
+}
