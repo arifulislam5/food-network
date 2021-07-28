@@ -60,7 +60,48 @@ body{
 .button{
     
     background-image: linear-gradient(90deg,yellow,orange);
-    height: 150px;
+    height: 50px;
     width: 80px;
 
+}
+.my-receipe{
+    width: 40%;
+    padding-left: 30%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.my-receipe h1{
+    padding-left: 40%;
+}
+.cardDeck{
+    height: 400px;
+}
+.card{
+    width: 30%;
+    margin-left: 2%;
+    height: 430px;
+    margin-top: 15px;
+    box-shadow: 5px 5px 15px gray;
+    float: left;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+.card-img{
+    height: 250px;
+    width: 95%;
+    
+    padding: 2%;
+    
+}
+.description{
+    padding: 2%;
+}
+.social-net{
+    border: 2px solid slateblue;
+    margin-top: 80px;
+    height: 150px;
+}
+.follower{
+    float: left;
+    width: 30%;
 }
