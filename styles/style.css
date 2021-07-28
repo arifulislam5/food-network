@@ -75,7 +75,7 @@ body{
 .my-receipe{
     width: 40%;
     padding-left: 30%;
-    margin-top: 20px;
+    margin-top: 40px;
     margin-bottom: 20px;
 }
 .my-receipe h1{
@@ -83,6 +83,7 @@ body{
 }
 .cardDeck{
     height: 400px;
+    margin-top: 40px;
 }
 .card{
     width: 30%;
@@ -106,7 +107,7 @@ body{
 }
 .social-net{
     
-    margin-top: 120px;
+    margin-top: 40px;
     height: 150px;
     width: 90%;
     margin-left: 4%;
@@ -169,4 +170,30 @@ height: 300px;
 }
 .network p{
     padding-left: 35%;
+}
+.review-img{
+    height: 200px;
+    width: 300px;
+    padding-left: 40px;
+    padding-top: 2%;
+    
+}
+.reviewer{
+    float: left;
+    width: 30%;
+    padding-left: 1%;
+    margin-left: 2%;
+    box-shadow: 5px 5px 15px gray;
+    border-radius: 10px;
+    background-color: #0c4b53;
+    color: #eb920d;
+}
+.review-section{
+    height: 400px;
+    margin-top: 100px;
+}
+.review-section h1{
+    margin-left: 40%;
+    margin-bottom: 30px;
+    
 }
